@@ -1,0 +1,1 @@
+# whmcs-emby-jellyfin
